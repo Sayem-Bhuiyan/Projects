@@ -20,6 +20,7 @@ nav .logo h2 {
 nav .logo h2:hover {
   color: black;
   background-color: white;
+  transition: 0.2s all ease-in;
 }
 nav .nav-menu {
   margin-right: 100px;
@@ -39,4 +40,5 @@ nav .nav-menu ul li a {
 nav .nav-menu ul li a:hover {
   color: black;
   background-color: white;
+  transition: 0.2s all ease-in;
 }/*# sourceMappingURL=style.css.map */
