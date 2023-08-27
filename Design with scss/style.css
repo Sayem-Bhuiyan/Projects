@@ -17,6 +17,10 @@ nav .logo {
 nav .logo h2 {
   color: white;
 }
+nav .logo h2:hover {
+  color: black;
+  background-color: white;
+}
 nav .nav-menu {
   margin-right: 100px;
 }
@@ -31,4 +35,8 @@ nav .nav-menu ul li a {
   font-size: 1.3rem;
   color: white;
   text-decoration: none;
+}
+nav .nav-menu ul li a:hover {
+  color: black;
+  background-color: white;
 }/*# sourceMappingURL=style.css.map */

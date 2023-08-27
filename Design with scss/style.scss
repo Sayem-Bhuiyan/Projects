@@ -16,6 +16,10 @@ nav {
         h2 {
             color: white;
         }
+        h2:hover {
+            color: black;
+            background-color: white;
+        }
     }
 
     .nav-menu {
@@ -32,6 +36,11 @@ nav {
                     font-size: 1.3rem;
                     color: white;
                     text-decoration: none;
+                }
+
+                a:hover {
+                    color: black;
+                    background-color: white;
                 }
             }
         }
